@@ -26,9 +26,9 @@ input=$(curl -s "https://smp-device-content.apple.com/static/region/v2/config.js
 state=$(echo "$input" | "$JQ_PATH" -r ".SupportedRegions.$REGION" | grep -c 'null')
 
 if [ $state -eq 1 ]; then
-    isAvailable="👎"
+  isAvailable="👎"
 elif [ $state -eq 0 ]; then
-    isAvailable="👍"
+  isAvailable="👍"
 fi
 
 echo "Pay $REGION: $isAvailable"
