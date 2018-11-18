@@ -4,7 +4,7 @@
 # <bitbar.author>Nils Winkler</bitbar.author>
 # <bitbar.author.github>nwinkler</bitbar.author.github>
 # <bitbar.desc>Displays Apple DE in Germany Status</bitbar.desc>
-# <bitbar.image></bitbar.image>
+# <bitbar.image>https://github.com/nwinkler/Apple-Pay-Status-BitBar-Plugin/raw/master/Apple%20Pay%20Status%20BitBar.png</bitbar.image>
 # <bitbar.dependencies>jq,curl</bitbar.dependencies>
 # <bitbar.abouturl>https://github.com/nwinkler/Apple-Pay-Status-BitBar-Plugin</bitbar.abouturl>
 #
