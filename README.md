@@ -1,6 +1,6 @@
 # Apple Pay Status for BitBar
 
-Shows the status for Apple Pay for a specific country in [BitBar](https://getbitbar.com/).
+Shows the status for Apple Pay for a specific country in [BitBar](https://getbitbar.com/). By default, the status is refreshed once per minute
 
 The inspiration for the script was [this article (German language)](https://www.itopnews.de/2018/11/i-mal-1-verfuegbarkeit-von-apple-pay-in-deutschland-bestimmen-und-in-homekit-anzeigen/).
 
